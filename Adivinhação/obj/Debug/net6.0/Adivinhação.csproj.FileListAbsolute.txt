@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\FPM\meus programas C#\Adivinhação\Adivinhação\bin\Debug\net6.0\Adivinhação.exe
+C:\Users\USER\Desktop\FPM\meus programas C#\Adivinhação\Adivinhação\bin\Debug\net6.0\Adivinhação.deps.json
+C:\Users\USER\Desktop\FPM\meus programas C#\Adivinhação\Adivinhação\bin\Debug\net6.0\Adivinhação.runtimeconfig.json
+C:\Users\USER\Desktop\FPM\meus programas C#\Adivinhação\Adivinhação\bin\Debug\net6.0\Adivinhação.dll
+C:\Users\USER\Desktop\FPM\meus programas C#\Adivinhação\Adivinhação\bin\Debug\net6.0\Adivinhação.pdb
+C:\Users\USER\Desktop\FPM\meus programas C#\Adivinhação\Adivinhação\obj\Debug\net6.0\Adivinhação.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FPM\meus programas C#\Adivinhação\Adivinhação\obj\Debug\net6.0\Adivinhação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\FPM\meus programas C#\Adivinhação\Adivinhação\obj\Debug\net6.0\Adivinhação.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\FPM\meus programas C#\Adivinhação\Adivinhação\obj\Debug\net6.0\Adivinhação.AssemblyInfo.cs
+C:\Users\USER\Desktop\FPM\meus programas C#\Adivinhação\Adivinhação\obj\Debug\net6.0\Adivinhação.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FPM\meus programas C#\Adivinhação\Adivinhação\obj\Debug\net6.0\Adivinhação.dll
+C:\Users\USER\Desktop\FPM\meus programas C#\Adivinhação\Adivinhação\obj\Debug\net6.0\refint\Adivinhação.dll
+C:\Users\USER\Desktop\FPM\meus programas C#\Adivinhação\Adivinhação\obj\Debug\net6.0\Adivinhação.pdb
+C:\Users\USER\Desktop\FPM\meus programas C#\Adivinhação\Adivinhação\obj\Debug\net6.0\Adivinhação.genruntimeconfig.cache
+C:\Users\USER\Desktop\FPM\meus programas C#\Adivinhação\Adivinhação\obj\Debug\net6.0\ref\Adivinhação.dll
